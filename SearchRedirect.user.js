@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name SearchRedirect
+// @name Search Redirect (Bing to Google)
 // @namespace github.com/kewalsky/userscripts
-// @version 2020-08-07b
+// @version 2020-08-07c
 // @author Various
 // @description Redirects searches made in Bing to Google
 // @include http://*.bing.com/search?*
