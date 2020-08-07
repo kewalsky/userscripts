@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name Search Redirect (Bing to Google)
+// @name Search Redirect B2G
 // @namespace github.com/kewalsky/userscripts
 // @version 2020-08-07-003
 // @author Various
 // @description Redirects searches made in Bing to Google
 // @include http://*.bing.com/search?*
 // @include https://*.bing.com/search?*
-// @updateURL https://raw.githubusercontent.com/kewalsky/userscripts/master/SearchRedirect.user.js
-// @downloadURL https://raw.githubusercontent.com/kewalsky/userscripts/master/SearchRedirect.user.js
+// @updateURL https://raw.githubusercontent.com/kewalsky/userscripts/master/SearchRedirect-B2G.user.js
+// @downloadURL https://raw.githubusercontent.com/kewalsky/userscripts/master/SearchRedirect-B2G.user.js
 // @run-at document-start
 // @grant none
 // ==/UserScript==
