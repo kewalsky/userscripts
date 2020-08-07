@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Search Redirect B2G
 // @namespace github.com/kewalsky/userscripts
-// @version 2020-08-07-006
+// @version 2015-07-30-001
 // @author Various
 // @description Redirects Bing searches to Google
 // @include http://*.bing.com/search?*
