@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name  SearchRedirect
-// @namespace github.com/kewalsky/userscript
+// @name SearchRedirect
+// @namespace github.com/kewalsky/userscripts
 // @version 2020-08-07
-// @author  Various
+// @author Various
 // @description greasyfork.org/en/scripts/11308-bing-to-google
 // @include http://*.bing.com/search?*
 // @include https://*.bing.com/search?*
-// @updateURL https://example.com
-// @downloadURL https://example.com
-// @run-at  document-start
+// @updateURL https://raw.githubusercontent.com/kewalsky/userscripts/master/SearchRedirect.user.js
+// @downloadURL https://raw.githubusercontent.com/kewalsky/userscripts/master/SearchRedirect.user.js
+// @run-at document-start
 // @grant none
 // ==/UserScript==
 
